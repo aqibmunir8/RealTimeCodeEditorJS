@@ -11,7 +11,7 @@
 
 ## Demo
 
-You can check out a live demo of **LiveCodePlayground** [here](#) (Add your demo link here).
+You can check out a live demo of **LiveCodePlayground** [Link ->](https://aqibmunir8.github.io/RealTimeCodeEditorJS/) 
 
 ## Installation
 
@@ -20,13 +20,13 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/LiveCodePlayground.git
+   https://github.com/aqibmunir8/RealTimeCodeEditorJS.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd LiveCodePlayground
+   cd RealTimeCodeEditorJS
    ```
 
 3. Open `index.html` in your browser to start using the live editor.
